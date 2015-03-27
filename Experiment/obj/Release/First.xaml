@@ -1,0 +1,107 @@
+﻿<Page
+    x:Class="Experiment.First"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <!--<Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <ContinuumNavigationTransitionInfo/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>-->
+    <StackPanel Background="White" Orientation="Vertical" x:Name="LayoutRoot">
+
+        
+            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+                <StackPanel x:ConnectionId='7' x:Name="B1"                    Margin="10,0,0,0">
+                    <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+                </StackPanel>
+                <StackPanel x:ConnectionId='8' x:Name="B2"                    Margin="80,0,0,0">
+                    <Image Source="/Assets/Map.png" Height="70"/>
+                </StackPanel>
+                <StackPanel x:ConnectionId='9' x:Name="B3"                    Margin="90,0,0,0">
+                <Image Source="/Assets/Mic.png" Height="70"/>
+                </StackPanel>
+            </StackPanel>
+        
+        <!-- Title Panel -->
+        <TextBlock Text="Preparation" HorizontalAlignment="Center"  Foreground="SlateGray" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+   
+        
+            <!--TODO: Content should be placed within the following grid-->
+        <ScrollViewer>
+            <Grid x:Name="Panaroma" Height="496">
+                
+                <Hub x:Name="Hub" x:Uid="Hub">
+                    <!--<Hub.Background>
+                        <ImageBrush ImageSource="/Assets/pana1.jpeg" >
+                            
+                        </ImageBrush>
+                    </Hub.Background>-->
+                    <HubSection>
+                        
+                        <DataTemplate>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Margin="0,0,0,10" Orientation="Horizontal">
+                                    <StackPanel x:ConnectionId='5' x:Name="A2"                    Margin="0,0,20,0" Height="200" Width="160" >
+                                        <StackPanel.Background>
+                                            <ImageBrush ImageSource="/Assets/ThingsToTake.jpg"/>
+                                        </StackPanel.Background>
+                                        <TextBlock Text="To Take" FontSize="25" Foreground="White" Margin="0,0,0,0"/>
+                                     </StackPanel>
+                                    <StackPanel x:ConnectionId='6' x:Name="A1"                    Height="200" Width="160" >
+                                        <StackPanel.Background>
+                                            <ImageBrush ImageSource="/Assets/RailPass.png"/>
+                                        </StackPanel.Background>
+                                        <TextBlock Text="RailPass" FontSize="25" Foreground="White"/>
+                                    </StackPanel>
+                                </StackPanel>
+                                <StackPanel x:ConnectionId='4' x:Name="A3" Height="250"                    >
+                                    <TextBlock Text="Climate" FontSize="25" Foreground="White" Margin="0,0,0,0"/>
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Assets/Climate.jpg"/>
+                                    </StackPanel.Background>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </HubSection>
+                    <HubSection>
+                        <DataTemplate>
+                            <StackPanel Orientation="Vertical"> 
+                                <StackPanel Orientation="Horizontal">
+                                    <StackPanel x:ConnectionId='2' x:Name="A5" Width="150" Height="200"                     >
+                                        <TextBlock Text="  Emergency"  FontSize="25" Foreground="White"/>
+                                        <StackPanel.Background>
+                                            <ImageBrush ImageSource="/Assets/Emergency.png"/>
+                                        </StackPanel.Background>
+                                    </StackPanel>
+                                    <StackPanel x:ConnectionId='3' x:Name="A7" Width="179" Height="200"                    Margin="10,0,0,0"  >
+                                        <TextBlock Text="  Accomodation"  FontSize="25" Foreground="White"/>
+                                        <StackPanel.Background>
+                                            <ImageBrush ImageSource="/Assets/Accomodation.png"/>
+                                        </StackPanel.Background>
+                                    </StackPanel>
+                                </StackPanel>
+                                
+                                <StackPanel x:ConnectionId='1' x:Name="A6" Height="250" Margin="0,10,0,0"                   >
+                                    <TextBlock Text="Reaching Tokyo" FontSize="25" Foreground="White"/>
+                                    <StackPanel.Background>
+                                        <ImageBrush ImageSource="/Assets/TokyoTower.jpg"/>
+                                    </StackPanel.Background>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </HubSection>
+                </Hub>
+            </Grid>
+        </ScrollViewer>
+    </StackPanel>
+</Page>
+

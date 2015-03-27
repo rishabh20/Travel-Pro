@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="Experiment.A71"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment.First"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+
+
+        <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+            <StackPanel x:Name="B1" Tapped="B1_Tapped" Margin="10,0,0,0">
+                <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+            </StackPanel>
+            <StackPanel x:Name="B2" Tapped="B2_Tapped" Margin="80,0,0,0">
+                <Image Source="/Assets/Map.png" Height="70"/>
+            </StackPanel>
+            <StackPanel x:Name="B3" Tapped="B3_Tapped" Margin="90,0,0,0">
+                <Image Source="/Assets/Mic.png" Height="70"/>
+            </StackPanel>
+        </StackPanel>
+        <!-- Title Panel -->
+        <StackPanel  >
+            <TextBlock Text="Japanese Style" Foreground="SlateGray" TextAlignment="Center" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Height="76"/>
+        </StackPanel>
+        <ScrollViewer Height="490">
+            <!--TODO: Content should be placed within the following grid-->
+            <StackPanel x:Name="ContentRoot" VerticalAlignment="Stretch">
+
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap" Margin="0,0,0,0" Width="400" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold" >
+                	<Run Text="Ryokan(6000-30000¥ per person)"/>
+                </TextBlock>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap"   Text="Ryokan are traditional Japanese style inns with Japanese style rooms. A stay at a ryokan typically includes dinner and breakfast and is recommended to all travelers to Japan as it gives you the opportunity to experience a traditional Japanese lifestyle."/>
+                <Image Width="380" Source="/Assets/Accomodation/Ryokan.jpg" Margin="0,10,0,0" Height="300"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap" Margin="0,0,0,0" Width="400" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold" >
+                	<Run Text="Minshuku(4000-10000¥ per person)"/>
+                </TextBlock>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap"   Text="Minshuku are Japanese style bed and breakfast lodgings. They are usually family run, offer Japanese style rooms, and often include one or two meals in the price."/>
+                <Image Width="380" Source="/Assets/Accomodation/Minshuku.jpg" Margin="0,10,0,0" Height="300"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap" Margin="0,0,0,0" Width="400" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold">
+                	<Run Text="Japanese Style Houses(10000-50000¥ per house)"/>
+                </TextBlock>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap"   Text="An increasingly popular, but still relatively rare type of accommodation (currently mainly available in Tokyo and Kyoto) are entire apartments or houses offered to foreign tourists for short term stays to experience a true everyday lifestyle. On offer are apartments with traditional or modern interior, as well as restored historic houses."/>
+                <Image Width="380" Source="/Assets/Accomodation/Apart.jpg" Margin="0,10,0,0" Height="300"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+</Page>

@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="Experiment.A3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+
+
+        <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+            <StackPanel x:ConnectionId='1' x:Name="B1"                    Margin="10,0,0,0">
+                <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+            </StackPanel>
+            <StackPanel x:ConnectionId='2' x:Name="B2"                    Margin="80,0,0,0">
+                <Image Source="/Assets/Map.png" Height="70"/>
+            </StackPanel>
+            <StackPanel x:ConnectionId='3' x:Name="B3"                    Margin="90,0,0,0">
+                <Image Source="/Assets/Mic.png" Height="70"/>
+            </StackPanel>
+        </StackPanel>
+        <!-- Title Panel -->
+        <StackPanel>
+            <TextBlock Text="Climate" Foreground="SlateGray" TextAlignment="Center" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Height="76"/>
+        </StackPanel>
+        <ScrollViewer Height="490">
+            <!--TODO: Content should be placed within the following grid-->
+            <StackPanel x:Name="ContentRoot" VerticalAlignment="Stretch">
+                
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Winter (December - February)" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria">
+                	<Run FontWeight="Bold" Text="Clothing"/>
+                	<Run Text=": overcoats, sweaters, etc."/>
+                </TextBlock>
+                <Image Width="300" Source="/Assets/Winter.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Spring (March - May)" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" FontSize="20" Margin="0,0,0,0" Width="400" Height="50" RequestedTheme="Light" FontFamily="Cambria">
+                	<Run FontWeight="Bold" Text="Clothing"/>
+                	<Run Text=": light jackets, light sweaters and "/>
+                	<LineBreak/>
+                	<Run Text="other similar kinds of tops. "/>
+                </TextBlock>
+                <Image Width="300" Source="/Assets/Spring.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Summer (June - August)" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Clothing: light clothes (cardigans and other similar kinds are handy, since indoors are mostly air-conditioned.)" FontSize="20" Margin="0,0,0,0" Width="400" Height="54" RequestedTheme="Light" FontFamily="Cambria"/>
+                <Image Width="300" Source="/Assets/Summer.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Autumn (September - November)" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Clothing: light jackets, light sweaters" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria"/>
+                <Image Width="300" Source="/Assets/Autumn.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+           
+                </StackPanel>
+                
+        </ScrollViewer>
+    </StackPanel>
+</Page>
+

@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{775B1677-0765-4FFD-9FE0-A2503AA07E3C}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Experiment</RootNamespace>
+    <AssemblyName>Experiment</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{76F1466A-8B6D-4E39-A767-685A06062A39};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="First\A1.xaml.cs">
+      <DependentUpon>A1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A2.xaml.cs">
+      <DependentUpon>A2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A3.xaml.cs">
+      <DependentUpon>A3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A7.xaml.cs">
+      <DependentUpon>A7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A5.xaml.cs">
+      <DependentUpon>A5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A6.xaml.cs">
+      <DependentUpon>A6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A71.xaml.cs">
+      <DependentUpon>A71.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A72.xaml.cs">
+      <DependentUpon>A72.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A73.xaml.cs">
+      <DependentUpon>A73.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First\A74.xaml.cs">
+      <DependentUpon>A74.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B1.xaml.cs">
+      <DependentUpon>B1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B2.xaml.cs">
+      <DependentUpon>B2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B3.xaml.cs">
+      <DependentUpon>B3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B4.xaml.cs">
+      <DependentUpon>B4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B5.xaml.cs">
+      <DependentUpon>B5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B6.xaml.cs">
+      <DependentUpon>B6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B61.xaml.cs">
+      <DependentUpon>B61.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second\B7.xaml.cs">
+      <DependentUpon>B7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="Compass.xaml.cs">
+      <DependentUpon>Compass.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CountryInfo.xaml.cs">
+      <DependentUpon>CountryInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="First.xaml.cs">
+      <DependentUpon>First.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Maps.xaml.cs">
+      <DependentUpon>Maps.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\WeatherClasses.cs" />
+    <Compile Include="DataModel\DataSource.cs" />
+    <Compile Include="Model\YoutubeVideo.cs" />
+    <Compile Include="Notes.xaml.cs">
+      <DependentUpon>Notes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Second.xaml.cs">
+      <DependentUpon>Second.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Translator.xaml.cs">
+      <DependentUpon>Translator.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\ViewModelLocator.cs" />
+    <Compile Include="Weather.xaml.cs">
+      <DependentUpon>Weather.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\150x150.png" />
+    <Content Include="Assets\24x24.png" />
+    <Content Include="Assets\24x24new.png" />
+    <Content Include="Assets\310x150.png" />
+    <Content Include="Assets\44x44.png" />
+    <Content Include="Assets\50x50.png" />
+    <Content Include="Assets\71x71.png" />
+    <Content Include="Assets\Accomodation.png" />
+    <Content Include="Assets\Accomodation\Apart.jpg" />
+    <Content Include="Assets\Accomodation\Business.jpg" />
+    <Content Include="Assets\Accomodation\Capsulel.jpg" />
+    <Content Include="Assets\Accomodation\Dormitories.jpg" />
+    <Content Include="Assets\Accomodation\Japanese Style.jpg" />
+    <Content Include="Assets\Accomodation\Longer.jpg" />
+    <Content Include="Assets\Accomodation\Minshuku.jpg" />
+    <Content Include="Assets\Accomodation\Monthly.jpg" />
+    <Content Include="Assets\Accomodation\Pensions.jpg" />
+    <Content Include="Assets\Accomodation\Ryokan.jpg" />
+    <Content Include="Assets\Accomodation\Soba.jpg" />
+    <Content Include="Assets\Accomodation\Temple.jpg" />
+    <Content Include="Assets\Accomodation\Unique.png" />
+    <Content Include="Assets\Autumn.jpg" />
+    <Content Include="Assets\calibrate_compass.png" />
+    <Content Include="Assets\ci.jpg" />
+    <Content Include="Assets\Climate.jpg" />
+    <Content Include="Assets\com.jpg" />
+    <Content Include="Assets\Emergency.png" />
+    <Content Include="Assets\emergency12.png" />
+    <Content Include="Assets\ex12.png" />
+    <Content Include="Assets\ExploreJapan.jpg" />
+    <Content Include="Assets\expressions.jpg" />
+    <Content Include="Assets\Food.jpg" />
+    <Content Include="Assets\Food\FamousFood.JPG" />
+    <Content Include="Assets\Food\Kaiseki.jpg" />
+    <Content Include="Assets\Food\Soba.jpg" />
+    <Content Include="Assets\Food\Sukiyaki.jpg" />
+    <Content Include="Assets\Food\Sushi.jpg" />
+    <Content Include="Assets\Food\Tempura.jpg" />
+    <Content Include="Assets\Food\Yakitora.jpg" />
+    <Content Include="Assets\Golden.jpg" />
+    <Content Include="Assets\Great.jpg" />
+    <Content Include="Assets\Himeji.jpg" />
+    <Content Include="Assets\Hiroshima.jpg" />
+    <Content Include="Assets\Icon.jpg" />
+    <Content Include="Assets\Info.png" />
+    <Content Include="Assets\Jm.jpg" />
+    <Content Include="Assets\Kiyomizu.jpg" />
+    <Content Include="Assets\Limousine.jpg" />
+    <Content Include="Assets\Logo.scale-240.png" />
+    <Content Include="Assets\Logo23.png" />
+    <Content Include="Assets\Mainpage.jpg" />
+    <Content Include="Assets\Man.jpg" />
+    <Content Include="Assets\man1.jpg" />
+    <Content Include="Assets\mannerisms.jpg" />
+    <Content Include="Assets\Map.png" />
+    <Content Include="Assets\mapba.jpg" />
+    <Content Include="Assets\mapJapan.png" />
+    <Content Include="Assets\Media-Play.png" />
+    <Content Include="Assets\Mic.png" />
+    <Content Include="Assets\MicrophoneIcon.png" />
+    <Content Include="Assets\Mount Fuji.jpg" />
+    <Content Include="Assets\Pana1.jpeg" />
+    <Content Include="Assets\Panaroma.jpg" />
+    <Content Include="Assets\Plug.jpg" />
+    <Content Include="Assets\Preparation.jpg" />
+    <Content Include="Assets\RailPass.png" />
+    <Content Include="Assets\Shinkansen.jpg" />
+    <Content Include="Assets\SmallLogo.scale-240.png" />
+    <Content Include="Assets\Speaker.jpeg" />
+    <Content Include="Assets\SplashScreen.jpg" />
+    <Content Include="Assets\SplashScreen.scale-240.png" />
+    <Content Include="Assets\splashscreennew.jpg" />
+    <Content Include="Assets\Spring.jpg" />
+    <Content Include="Assets\Square71x71Logo.scale-240.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-240.png" />
+    <Content Include="Assets\Summer.jpg" />
+    <Content Include="Assets\ThingsToTake.jpg" />
+    <Content Include="Assets\TokyoTower.jpg" />
+    <Content Include="Assets\trans.jpg" />
+    <Content Include="Assets\Translate.png" />
+    <Content Include="Assets\visit.jpg" />
+    <Content Include="Assets\WideLogo.scale-240.png" />
+    <Content Include="Assets\Winter.jpg" />
+    <None Include="Package.StoreAssociation.xml" />
+    <Content Include="Usage.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="First\A1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A71.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A72.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A73.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First\A74.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B61.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second\B7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Compass.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CountryInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="First.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Maps.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Notes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Second.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Translator.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Weather.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="GalaSoft.MvvmLight, Version=5.0.2.32240, Culture=neutral, PublicKeyToken=e7570ab207bcb616, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaSoft.MvvmLight.Extras, Version=5.0.2.32242, Culture=neutral, PublicKeyToken=669f0b5e8f868abf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Extras.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaSoft.MvvmLight.Platform, Version=5.0.2.32241, Culture=neutral, PublicKeyToken=2d6752c4fdf70b88, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="MyToolkit, Version=2.3.28.0, Culture=neutral, PublicKeyToken=3e349a1360994d26, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MyToolkit.2.3.28.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="MyToolkit.Extended, Version=2.3.28.0, Culture=neutral, PublicKeyToken=3e349a1360994d26, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetPlatformIdentifier)' == '' ">
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

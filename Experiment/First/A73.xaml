@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="Experiment.A73"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment.First"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+
+
+        <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+            <StackPanel x:Name="B1" Tapped="B1_Tapped" Margin="10,0,0,0">
+                <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+            </StackPanel>
+            <StackPanel x:Name="B2" Tapped="B2_Tapped" Margin="80,0,0,0">
+                <Image Source="/Assets/Map.png" Height="70"/>
+            </StackPanel>
+            <StackPanel x:Name="B3" Tapped="B3_Tapped" Margin="90,0,0,0">
+                <Image Source="/Assets/Mic.png" Height="70"/>
+            </StackPanel>
+        </StackPanel>
+        <!-- Title Panel -->
+        <StackPanel  >
+            <TextBlock Text="Unique Lodgings" Foreground="SlateGray" TextAlignment="Center" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Height="76"/>
+        </StackPanel>
+        <ScrollViewer Height="490">
+            <!--TODO: Content should be placed within the following grid-->
+            <StackPanel x:Name="ContentRoot" VerticalAlignment="Stretch">
+
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap" Margin="0,0,0,0" Width="400" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold" >
+                	<Run Text="Capsule Hotels(3000-4000¥ per person)"/>
+                </TextBlock>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap"   Text="Ryokan are traditional Japanese style inns with Japanese style rooms. A stay at a ryokan typically includes dinner and breakfast and is recommended to all travelers to Japan as it gives you the opportunity to experience a traditional Japanese lifestyle."/>
+                <Image Width="380" Source="/Assets/Accomodation/Capsulel.jpg" Margin="0,10,0,0" Height="300"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap" Margin="0,0,0,0" Width="400" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold" >
+                	<Run Text="Temple Lodgings(3000-4000¥ per person)"/>
+                </TextBlock>
+                <TextBlock Foreground="Black" TextAlignment="Left" FontSize="20" TextWrapping="Wrap"   Text="It is possible for tourists to spend the night at some Buddhist temple lodgings (shukubo). A stay often includes two vegetarian meals and the opportunity to join the morning prayers. One of the best places to experience a night at a temple is Mount Koya."/>
+                <Image Width="380" Source="/Assets/Accomodation/Temple.jpg" Margin="0,10,0,0" Height="300"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+</Page>

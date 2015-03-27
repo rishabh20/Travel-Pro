@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="Experiment.B1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    
+    
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+
+
+        <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+            <StackPanel x:ConnectionId='2' x:Name="Ico1"                      Margin="10,0,0,0">
+                <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+            </StackPanel>
+            <StackPanel x:ConnectionId='3' x:Name="Ico2"                      Margin="80,0,0,0">
+                <Image Source="/Assets/Map.png" Height="70"/>
+            </StackPanel>
+            <StackPanel x:ConnectionId='4' x:Name="ico3"                      Margin="90,0,0,0">
+                <Image Source="/Assets/Mic.png" Height="70"/>
+            </StackPanel>
+        </StackPanel>
+        <!-- Title Panel -->
+        <StackPanel>
+            <TextBlock Text="Places to Visit" Foreground="SlateGray" TextAlignment="Center" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Height="76"/>
+        </StackPanel>
+
+        <ScrollViewer Height="490">
+            <!--TODO: Content should be placed within the following grid-->
+            <StackPanel x:Name="ContentRoot" VerticalAlignment="Stretch">
+                <MediaElement x:ConnectionId='1' x:Name="Placestovisit" AreTransportControlsEnabled="True" AutoPlay="False"                               Height="320" Width="400"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="Himeji Castle" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"/>
+
+
+                <Image Width="300" Source="/Assets/Himeji.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" FontFamily="Cambria" FontWeight="Bold" Text="Kiyomizu-dera" FontSize="20" Margin="0" RequestedTheme="Light" />
+                <Image Width="300" Source="/Assets/Kiyomizu.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" Text="MtFuji" FontSize="20" Margin="0,0,0,0" Width="400" Height="36" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"/>
+
+
+                <Image Width="300" Source="/Assets/Mount Fuji.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" FontFamily="Cambria" FontWeight="Bold" Text="Hiroshima" FontSize="20" Margin="0" RequestedTheme="Light" />
+                <Image Width="300" Source="/Assets/Hiroshima.jpg" Margin="0,10,0,0"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" FontFamily="Cambria" FontWeight="Bold" Text="Tokyo Tower" FontSize="20" Margin="0" RequestedTheme="Light" />
+                <Image Width="300" Source="/Assets/TokyoTower.jpg" Margin="0,10,0,0"/>
+                
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+</Page>
+

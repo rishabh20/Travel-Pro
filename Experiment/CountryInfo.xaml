@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="Experiment.CountryInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel x:Name="LayoutRoot" Orientation="Vertical" Background="White">
+
+
+        <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+            <StackPanel x:Name="B1" Tapped="B1_Tapped" Margin="10,0,0,0">
+                <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+            </StackPanel>
+            <StackPanel x:Name="B2" Tapped="B2_Tapped" Margin="80,0,0,0">
+                <Image Source="/Assets/Map.png" Height="70"/>
+            </StackPanel>
+            <StackPanel x:Name="B3" Tapped="B3_Tapped" Margin="90,0,0,0">
+                <Image Source="/Assets/Mic.png" Height="70"/>
+            </StackPanel>
+        </StackPanel>
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0"> 
+            <TextBlock Text="General Info" HorizontalAlignment="Center" Foreground="Black" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+        <StackPanel x:Name="First" Height="225" Margin="10,0,10,0" Tapped="First_Tapped">
+            <TextBlock Text=" Preparation"  FontSize="35"/>
+            <StackPanel.Background>
+                <ImageBrush ImageSource="/Assets/Preparation.jpg"/>
+            </StackPanel.Background>
+        </StackPanel>
+        <StackPanel x:Name="Second" Height="225" Margin="10,10,10,0" Tapped="Second_Tapped">
+            <TextBlock Text=" Explore Japan" FontSize="35"/>
+            <StackPanel.Background>
+                <ImageBrush ImageSource="/Assets/ExploreJapan.jpg"/>
+            </StackPanel.Background>
+        </StackPanel>
+
+
+    </StackPanel>
+</Page>

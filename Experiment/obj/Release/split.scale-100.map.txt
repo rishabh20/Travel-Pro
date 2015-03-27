@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Release\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"

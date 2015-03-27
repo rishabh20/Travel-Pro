@@ -1,0 +1,544 @@
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\App.xbf
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\MainPage.xbf
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\Experiment.xr.xml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\Experiment.exe
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\Experiment.pdb
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\resources.pri
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\AppxManifest.xml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\Experiment.build.appxrecipe
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\App.g.i.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\App.g.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\MainPage.g.i.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\MainPage.g.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\App.xaml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\App.xbf
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\XamlSaveStateFile.xml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\MainPage.xaml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\MainPage.xbf
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\Experiment.exe
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\Experiment.pdb
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\priconfig.xml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\priconfig.xml.intermediate
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\layout.resfiles
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\layout.resfiles.intermediate
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\resources.resfiles
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\resources.resfiles.intermediate
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\pri.resfiles
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\pri.resfiles.intermediate
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\qualifiers.txt
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\qualifiers.txt.intermediate
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\ProjectArchitectures.txt
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\bin\Debug\Page1.xbf
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\Page1.g.i.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\Page1.g.cs
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\Page1.xaml
+c:\users\mac\documents\visual studio 2013\Projects\Experiment\Experiment\obj\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\App.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\Experiment.xr.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\resources.pri
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\AppxManifest.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\Experiment.build.appxrecipe
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\MyToolkit.dll
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\MyToolkit.Extended.dll
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\MyToolkit.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\MyToolkit.Extended.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\bin\Debug\MyToolkit.Extended.pri
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\App.g.i.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\App.g.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\MainPage.g.i.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\MainPage.g.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Page1.g.i.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Page1.g.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Translator.g.i.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Translator.g.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\App.xaml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\App.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\XamlSaveStateFile.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\MainPage.xaml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Page1.xaml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Translator.xaml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\priconfig.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\priconfig.xml.intermediate
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\layout.resfiles
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\layout.resfiles.intermediate
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\resources.resfiles
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\resources.resfiles.intermediate
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\pri.resfiles
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\pri.resfiles.intermediate
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\qualifiers.txt
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\MyToolkit.Extended.pri.xml
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\ProjectArchitectures.txt
+C:\Users\MAC\Desktop\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\App.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Experiment.xr.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\resources.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\AppxManifest.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Experiment.build.appxrecipe
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\MyToolkit.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\MyToolkit.Extended.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\MyToolkit.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\MyToolkit.Extended.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\MyToolkit.Extended.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\App.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\App.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\MainPage.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\MainPage.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Page1.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Page1.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Translator.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Translator.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\App.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Page1.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Translator.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\App.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\XamlSaveStateFile.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\MainPage.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\priconfig.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\priconfig.xml.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\layout.resfiles
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\layout.resfiles.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\resources.resfiles
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\resources.resfiles.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\pri.resfiles
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\pri.resfiles.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\qualifiers.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\MyToolkit.Extended.pri.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\ProjectArchitectures.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Weather.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Weather.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Weather.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Weather.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Weather.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Compass.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Compass.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Compass.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Compass.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Compass.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\CountryInfo.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\bin\Debug\Notes.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\CountryInfo.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\CountryInfo.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Notes.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Notes.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\CountryInfo.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\CountryInfo.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Notes.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.02\Experiment\obj\Debug\Notes.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\App.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Compass.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\CountryInfo.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Notes.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Weather.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Experiment.xr.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\resources.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\AppxManifest.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Experiment.build.appxrecipe
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\MyToolkit.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\MyToolkit.Extended.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\MyToolkit.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\MyToolkit.Extended.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\MyToolkit.Extended.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\App.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\App.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Compass.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Compass.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\CountryInfo.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\CountryInfo.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\MainPage.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\MainPage.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Notes.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Notes.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page1.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page1.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Translator.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Translator.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Weather.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Weather.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\App.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Compass.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\CountryInfo.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\MainPage.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Notes.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page1.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Translator.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Weather.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\App.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Compass.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\CountryInfo.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Notes.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Weather.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\XamlSaveStateFile.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\priconfig.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\priconfig.xml.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\layout.resfiles
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\layout.resfiles.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\resources.resfiles
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\resources.resfiles.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\pri.resfiles
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\pri.resfiles.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\qualifiers.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\MyToolkit.Extended.pri.xml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\ProjectArchitectures.txt
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Page2.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page2.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page2.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page2.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Page2.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\First.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Second.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\First.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\First.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Second.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Second.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\First.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Second.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\First.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Second.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\A1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\A2.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\A3.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\A4.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\A5.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\A6.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A1.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A1.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A2.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A2.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A3.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A3.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A4.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A4.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A5.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A5.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A6.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A6.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A1.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A2.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A3.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A4.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A5.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A6.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A2.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A3.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A4.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A5.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\A6.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B2.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B3.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B4.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B5.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B1.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B1.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B2.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B2.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B3.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B3.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B4.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B4.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B5.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B5.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B1.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B2.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B3.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B4.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B5.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B1.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B2.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B3.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B4.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B5.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B6.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B6.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B7.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B7.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B6.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B7.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B6.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\B7.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B6.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\B7.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Maps.g.i.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Maps.g.cs
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Maps.xaml
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\obj\Debug\Maps.xbf
+C:\Users\MAC\Desktop\Beta_Experiment1.03\Experiment\bin\Debug\Maps.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\App.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A1.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A2.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A3.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A7.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A5.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A6.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A71.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A72.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A73.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A74.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B1.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B2.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B3.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B4.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B5.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B6.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B61.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B7.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Compass.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\CountryInfo.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Maps.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Notes.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Weather.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Experiment.xr.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\resources.pri
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\AppxManifest.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Experiment.build.appxrecipe
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MyToolkit.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MyToolkit.Extended.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MyToolkit.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MyToolkit.Extended.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MyToolkit.Extended.pri
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\App.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\App.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A1.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A1.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A2.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A2.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A3.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A3.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A7.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A7.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A5.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A5.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A6.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A6.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A71.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A71.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A72.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A72.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A73.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A73.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A74.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A74.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B1.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B1.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B2.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B2.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B3.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B3.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B4.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B4.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B5.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B5.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B6.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B6.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B61.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B61.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B7.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B7.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Compass.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Compass.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\CountryInfo.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\CountryInfo.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\MainPage.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\MainPage.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Maps.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Maps.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Notes.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Notes.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Page1.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Page1.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Translator.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Translator.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Weather.g.i.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Weather.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\App.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A1.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A2.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A3.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A7.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A5.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A6.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A71.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A72.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A73.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A74.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B1.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B2.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B3.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B4.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B5.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B6.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B61.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B7.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Compass.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\CountryInfo.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\MainPage.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Maps.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Notes.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Page1.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Translator.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Weather.xaml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\App.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A1.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A2.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A3.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A7.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A5.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A6.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A71.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A72.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A73.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First\A74.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B1.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B2.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B3.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B4.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B5.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B6.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B61.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second\B7.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Compass.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\CountryInfo.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\First.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\MainPage.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Maps.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Notes.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Page1.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Second.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Translator.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Weather.xbf
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\XamlSaveStateFile.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Experiment.exe
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Experiment.pdb
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\priconfig.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\priconfig.xml.intermediate
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\layout.resfiles
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\layout.resfiles.intermediate
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\resources.resfiles
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\resources.resfiles.intermediate
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\pri.resfiles
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\pri.resfiles.intermediate
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\qualifiers.txt
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\MyToolkit.Extended.pri.xml
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\ProjectArchitectures.txt
+C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache

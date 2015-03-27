@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="Experiment.Maps"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel x:Name="LayoutRoot" Background="Gray" Margin="0,0,0,0">
+        <StackPanel Orientation="Vertical" Background="SlateGray">
+            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Background="Black">
+                <StackPanel x:Name="B1" Tapped="B1_Tapped" Margin="10,0,0,0">
+                    <Image Source="/Assets/Info.png" Stretch="Uniform" Height="70" />
+                </StackPanel>
+                <StackPanel x:Name="B2" Tapped="B2_Tapped" Margin="80,0,0,0">
+                    <Image Source="/Assets/Map.png" Height="70"/>
+                </StackPanel>
+                <StackPanel x:Name="B3" Tapped="B3_Tapped" Margin="90,0,0,0">
+                    <Image Source="/Assets/Mic.png" Height="70"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        <!-- Title Panel -->
+            
+        <TextBlock Text="Maps" TextAlignment="Center" Foreground="Black" Margin="0,0,0,10" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        
+    <!--TODO: Content should be placed within the following grid-->
+        <StackPanel x:Name="ContentRoot" Margin="0,0,0,0" Grid.RowSpan="2">
+            <TextBlock Foreground="White" FontSize="25"  Text="Enter text in English to search" TextAlignment="Center"/>
+            <TextBox x:Name="Textbox" Background="White"  Foreground="Black" Height="120" Margin="0,50,0,50"/>
+            <Button x:Name="Mapsbtn"  Background="White" HorizontalAlignment="Center" Foreground="Black" Content="Search"  FontSize="30" Click="Mapsbtn_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Page>

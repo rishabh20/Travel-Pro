@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GSSSRINIVAS161D</Machine>
+    <WindowsUser>MAC</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4bb2db92-5fea-4391-945d-88239160c325</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Experiment.exe">
+      <PackagePath>Experiment.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.2.3.28.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+      <PackagePath>MyToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
+      <PackagePath>MyToolkit.Extended.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\150x150.png">
+      <PackagePath>Assets\150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\24x24.png">
+      <PackagePath>Assets\24x24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\24x24new.png">
+      <PackagePath>Assets\24x24new.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\310x150.png">
+      <PackagePath>Assets\310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\44x44.png">
+      <PackagePath>Assets\44x44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\50x50.png">
+      <PackagePath>Assets\50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\71x71.png">
+      <PackagePath>Assets\71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation.png">
+      <PackagePath>Assets\Accomodation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Unique.png">
+      <PackagePath>Assets\Accomodation\Unique.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\calibrate_compass.png">
+      <PackagePath>Assets\calibrate_compass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Emergency.png">
+      <PackagePath>Assets\Emergency.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\emergency12.png">
+      <PackagePath>Assets\emergency12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\ex12.png">
+      <PackagePath>Assets\ex12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Info.png">
+      <PackagePath>Assets\Info.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Logo23.png">
+      <PackagePath>Assets\Logo23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Map.png">
+      <PackagePath>Assets\Map.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\mapJapan.png">
+      <PackagePath>Assets\mapJapan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Media-Play.png">
+      <PackagePath>Assets\Media-Play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Mic.png">
+      <PackagePath>Assets\Mic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\MicrophoneIcon.png">
+      <PackagePath>Assets\MicrophoneIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\RailPass.png">
+      <PackagePath>Assets\RailPass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Translate.png">
+      <PackagePath>Assets\Translate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Apart.jpg">
+      <PackagePath>Assets\Accomodation\Apart.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Business.jpg">
+      <PackagePath>Assets\Accomodation\Business.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Capsulel.jpg">
+      <PackagePath>Assets\Accomodation\Capsulel.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Dormitories.jpg">
+      <PackagePath>Assets\Accomodation\Dormitories.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Japanese Style.jpg">
+      <PackagePath>Assets\Accomodation\Japanese Style.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Longer.jpg">
+      <PackagePath>Assets\Accomodation\Longer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Minshuku.jpg">
+      <PackagePath>Assets\Accomodation\Minshuku.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Monthly.jpg">
+      <PackagePath>Assets\Accomodation\Monthly.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Pensions.jpg">
+      <PackagePath>Assets\Accomodation\Pensions.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Ryokan.jpg">
+      <PackagePath>Assets\Accomodation\Ryokan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Soba.jpg">
+      <PackagePath>Assets\Accomodation\Soba.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Accomodation\Temple.jpg">
+      <PackagePath>Assets\Accomodation\Temple.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Autumn.jpg">
+      <PackagePath>Assets\Autumn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\ci.jpg">
+      <PackagePath>Assets\ci.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Climate.jpg">
+      <PackagePath>Assets\Climate.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\com.jpg">
+      <PackagePath>Assets\com.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\ExploreJapan.jpg">
+      <PackagePath>Assets\ExploreJapan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\expressions.jpg">
+      <PackagePath>Assets\expressions.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food.jpg">
+      <PackagePath>Assets\Food.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\FamousFood.JPG">
+      <PackagePath>Assets\Food\FamousFood.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\Kaiseki.jpg">
+      <PackagePath>Assets\Food\Kaiseki.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\Soba.jpg">
+      <PackagePath>Assets\Food\Soba.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\Sukiyaki.jpg">
+      <PackagePath>Assets\Food\Sukiyaki.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\Sushi.jpg">
+      <PackagePath>Assets\Food\Sushi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\Tempura.jpg">
+      <PackagePath>Assets\Food\Tempura.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Food\Yakitora.jpg">
+      <PackagePath>Assets\Food\Yakitora.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Golden.jpg">
+      <PackagePath>Assets\Golden.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Great.jpg">
+      <PackagePath>Assets\Great.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Himeji.jpg">
+      <PackagePath>Assets\Himeji.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Hiroshima.jpg">
+      <PackagePath>Assets\Hiroshima.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Icon.jpg">
+      <PackagePath>Assets\Icon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Jm.jpg">
+      <PackagePath>Assets\Jm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Kiyomizu.jpg">
+      <PackagePath>Assets\Kiyomizu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Limousine.jpg">
+      <PackagePath>Assets\Limousine.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Mainpage.jpg">
+      <PackagePath>Assets\Mainpage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Man.jpg">
+      <PackagePath>Assets\Man.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\man1.jpg">
+      <PackagePath>Assets\man1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\mannerisms.jpg">
+      <PackagePath>Assets\mannerisms.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\mapba.jpg">
+      <PackagePath>Assets\mapba.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Mount Fuji.jpg">
+      <PackagePath>Assets\Mount Fuji.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Panaroma.jpg">
+      <PackagePath>Assets\Panaroma.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Plug.jpg">
+      <PackagePath>Assets\Plug.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Preparation.jpg">
+      <PackagePath>Assets\Preparation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Shinkansen.jpg">
+      <PackagePath>Assets\Shinkansen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\SplashScreen.jpg">
+      <PackagePath>Assets\SplashScreen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\splashscreennew.jpg">
+      <PackagePath>Assets\splashscreennew.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Spring.jpg">
+      <PackagePath>Assets\Spring.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Summer.jpg">
+      <PackagePath>Assets\Summer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\ThingsToTake.jpg">
+      <PackagePath>Assets\ThingsToTake.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\TokyoTower.jpg">
+      <PackagePath>Assets\TokyoTower.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\trans.jpg">
+      <PackagePath>Assets\trans.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\visit.jpg">
+      <PackagePath>Assets\visit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Winter.jpg">
+      <PackagePath>Assets\Winter.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Pana1.jpeg">
+      <PackagePath>Assets\Pana1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Assets\Speaker.jpeg">
+      <PackagePath>Assets\Speaker.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\Usage.txt">
+      <PackagePath>Usage.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A1.xbf">
+      <PackagePath>First\A1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A2.xbf">
+      <PackagePath>First\A2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A3.xbf">
+      <PackagePath>First\A3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A7.xbf">
+      <PackagePath>First\A7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A5.xbf">
+      <PackagePath>First\A5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A6.xbf">
+      <PackagePath>First\A6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A71.xbf">
+      <PackagePath>First\A71.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A72.xbf">
+      <PackagePath>First\A72.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A73.xbf">
+      <PackagePath>First\A73.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First\A74.xbf">
+      <PackagePath>First\A74.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B1.xbf">
+      <PackagePath>Second\B1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B2.xbf">
+      <PackagePath>Second\B2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B3.xbf">
+      <PackagePath>Second\B3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B4.xbf">
+      <PackagePath>Second\B4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B5.xbf">
+      <PackagePath>Second\B5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B6.xbf">
+      <PackagePath>Second\B6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B61.xbf">
+      <PackagePath>Second\B61.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second\B7.xbf">
+      <PackagePath>Second\B7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Compass.xbf">
+      <PackagePath>Compass.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\CountryInfo.xbf">
+      <PackagePath>CountryInfo.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\First.xbf">
+      <PackagePath>First.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Maps.xbf">
+      <PackagePath>Maps.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Notes.xbf">
+      <PackagePath>Notes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Page1.xbf">
+      <PackagePath>Page1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Second.xbf">
+      <PackagePath>Second.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Translator.xbf">
+      <PackagePath>Translator.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Weather.xbf">
+      <PackagePath>Weather.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\Experiment.xr.xml">
+      <PackagePath>Experiment.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+      <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\packages\MyToolkit.Extended.2.3.28.0\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MAC\Desktop\Japan App\First Submission Beta\Experiment\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

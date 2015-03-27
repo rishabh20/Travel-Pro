@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="37490GSSSrinivasRao.TravelPro" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Compass.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Compass.xbf">
+				<Candidate type="Path">
+					<Value>Compass.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CountryInfo.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/CountryInfo.xbf">
+				<Candidate type="Path">
+					<Value>CountryInfo.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Experiment.xr.xml" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Experiment.xr.xml">
+				<Candidate type="Path">
+					<Value>Experiment.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="First.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First.xbf">
+				<Candidate type="Path">
+					<Value>First.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Maps.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Maps.xbf">
+				<Candidate type="Path">
+					<Value>Maps.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Notes.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Notes.xbf">
+				<Candidate type="Path">
+					<Value>Notes.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Page1.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Page1.xbf">
+				<Candidate type="Path">
+					<Value>Page1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Second.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second.xbf">
+				<Candidate type="Path">
+					<Value>Second.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Translator.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Translator.xbf">
+				<Candidate type="Path">
+					<Value>Translator.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Usage.txt" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Usage.txt">
+				<Candidate type="Path">
+					<Value>Usage.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Weather.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Weather.xbf">
+				<Candidate type="Path">
+					<Value>Weather.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="150x150.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/150x150.png">
+					<Candidate type="Path">
+						<Value>Assets\150x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="24x24.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/24x24.png">
+					<Candidate type="Path">
+						<Value>Assets\24x24.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="24x24new.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/24x24new.png">
+					<Candidate type="Path">
+						<Value>Assets\24x24new.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="310x150.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/310x150.png">
+					<Candidate type="Path">
+						<Value>Assets\310x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="44x44.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/44x44.png">
+					<Candidate type="Path">
+						<Value>Assets\44x44.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="50x50.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/50x50.png">
+					<Candidate type="Path">
+						<Value>Assets\50x50.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="71x71.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/71x71.png">
+					<Candidate type="Path">
+						<Value>Assets\71x71.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Accomodation.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation.png">
+					<Candidate type="Path">
+						<Value>Assets\Accomodation.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Autumn.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Autumn.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Autumn.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="calibrate_compass.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/calibrate_compass.png">
+					<Candidate type="Path">
+						<Value>Assets\calibrate_compass.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ci.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/ci.jpg">
+					<Candidate type="Path">
+						<Value>Assets\ci.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Climate.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Climate.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Climate.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="com.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/com.jpg">
+					<Candidate type="Path">
+						<Value>Assets\com.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Emergency.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Emergency.png">
+					<Candidate type="Path">
+						<Value>Assets\Emergency.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="emergency12.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/emergency12.png">
+					<Candidate type="Path">
+						<Value>Assets\emergency12.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ex12.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/ex12.png">
+					<Candidate type="Path">
+						<Value>Assets\ex12.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExploreJapan.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/ExploreJapan.jpg">
+					<Candidate type="Path">
+						<Value>Assets\ExploreJapan.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="expressions.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/expressions.jpg">
+					<Candidate type="Path">
+						<Value>Assets\expressions.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Food.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Food.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Golden.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Golden.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Golden.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Great.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Great.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Great.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Himeji.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Himeji.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Himeji.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Hiroshima.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Hiroshima.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Hiroshima.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Icon.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Icon.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Icon.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Info.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Info.png">
+					<Candidate type="Path">
+						<Value>Assets\Info.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Jm.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Jm.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Jm.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Kiyomizu.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Kiyomizu.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Kiyomizu.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Limousine.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Limousine.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Limousine.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo23.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Logo23.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo23.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Mainpage.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Mainpage.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Mainpage.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Man.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Man.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Man.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="man1.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/man1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\man1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mannerisms.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/mannerisms.jpg">
+					<Candidate type="Path">
+						<Value>Assets\mannerisms.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Map.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Map.png">
+					<Candidate type="Path">
+						<Value>Assets\Map.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mapba.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/mapba.jpg">
+					<Candidate type="Path">
+						<Value>Assets\mapba.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mapJapan.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/mapJapan.png">
+					<Candidate type="Path">
+						<Value>Assets\mapJapan.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Media-Play.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Media-Play.png">
+					<Candidate type="Path">
+						<Value>Assets\Media-Play.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Mic.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Mic.png">
+					<Candidate type="Path">
+						<Value>Assets\Mic.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MicrophoneIcon.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/MicrophoneIcon.png">
+					<Candidate type="Path">
+						<Value>Assets\MicrophoneIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Mount Fuji.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Mount%20Fuji.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Mount Fuji.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Pana1.jpeg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Pana1.jpeg">
+					<Candidate type="Path">
+						<Value>Assets\Pana1.jpeg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Panaroma.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Panaroma.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Panaroma.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Plug.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Plug.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Plug.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Preparation.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Preparation.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Preparation.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RailPass.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/RailPass.png">
+					<Candidate type="Path">
+						<Value>Assets\RailPass.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shinkansen.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Shinkansen.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Shinkansen.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Speaker.jpeg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Speaker.jpeg">
+					<Candidate type="Path">
+						<Value>Assets\Speaker.jpeg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/SplashScreen.jpg">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreennew.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/splashscreennew.jpg">
+					<Candidate type="Path">
+						<Value>Assets\splashscreennew.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Spring.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Spring.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Spring.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Summer.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Summer.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Summer.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ThingsToTake.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/ThingsToTake.jpg">
+					<Candidate type="Path">
+						<Value>Assets\ThingsToTake.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TokyoTower.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/TokyoTower.jpg">
+					<Candidate type="Path">
+						<Value>Assets\TokyoTower.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="trans.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/trans.jpg">
+					<Candidate type="Path">
+						<Value>Assets\trans.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Translate.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Translate.png">
+					<Candidate type="Path">
+						<Value>Assets\Translate.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="visit.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/visit.jpg">
+					<Candidate type="Path">
+						<Value>Assets\visit.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Winter.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Winter.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Winter.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Accomodation">
+					<NamedResource name="Apart.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Apart.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Apart.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Business.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Business.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Business.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Capsulel.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Capsulel.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Capsulel.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Dormitories.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Dormitories.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Dormitories.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Japanese Style.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Japanese%20Style.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Japanese Style.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Longer.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Longer.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Longer.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Minshuku.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Minshuku.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Minshuku.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Monthly.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Monthly.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Monthly.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Pensions.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Pensions.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Pensions.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Ryokan.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Ryokan.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Ryokan.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Soba.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Soba.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Soba.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Temple.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Temple.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Temple.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Unique.png" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Accomodation/Unique.png">
+						<Candidate type="Path">
+							<Value>Assets\Accomodation\Unique.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Food">
+					<NamedResource name="FamousFood.JPG" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/FamousFood.JPG">
+						<Candidate type="Path">
+							<Value>Assets\Food\FamousFood.JPG</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Kaiseki.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/Kaiseki.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Food\Kaiseki.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Soba.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/Soba.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Food\Soba.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Sukiyaki.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/Sukiyaki.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Food\Sukiyaki.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Sushi.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/Sushi.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Food\Sushi.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Tempura.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/Tempura.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Food\Tempura.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Yakitora.jpg" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Assets/Food/Yakitora.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Food\Yakitora.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="First">
+				<NamedResource name="A1.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A1.xbf">
+					<Candidate type="Path">
+						<Value>First\A1.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A2.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A2.xbf">
+					<Candidate type="Path">
+						<Value>First\A2.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A3.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A3.xbf">
+					<Candidate type="Path">
+						<Value>First\A3.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A5.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A5.xbf">
+					<Candidate type="Path">
+						<Value>First\A5.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A6.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A6.xbf">
+					<Candidate type="Path">
+						<Value>First\A6.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A7.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A7.xbf">
+					<Candidate type="Path">
+						<Value>First\A7.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A71.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A71.xbf">
+					<Candidate type="Path">
+						<Value>First\A71.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A72.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A72.xbf">
+					<Candidate type="Path">
+						<Value>First\A72.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A73.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A73.xbf">
+					<Candidate type="Path">
+						<Value>First\A73.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="A74.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/First/A74.xbf">
+					<Candidate type="Path">
+						<Value>First\A74.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MyToolkit.Extended">
+				<NamedResource name="MyToolkit.Extended.xr.xml" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/MyToolkit.Extended/MyToolkit.Extended.xr.xml">
+					<Candidate type="Path">
+						<Value>MyToolkit.Extended\MyToolkit.Extended.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="DatePicker.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/MyToolkit.Extended/Controls/DatePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\DatePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePicker.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/MyToolkit.Extended/Controls/TimePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\TimePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/MyToolkit.Extended/Themes/generic.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Themes\generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UI">
+					<ResourceMapSubtree name="Popups">
+						<NamedResource name="ListPickerBox.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/MyToolkit.Extended/UI/Popups/ListPickerBox.xbf">
+							<Candidate type="Path">
+								<Value>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Second">
+				<NamedResource name="B1.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B1.xbf">
+					<Candidate type="Path">
+						<Value>Second\B1.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B2.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B2.xbf">
+					<Candidate type="Path">
+						<Value>Second\B2.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B3.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B3.xbf">
+					<Candidate type="Path">
+						<Value>Second\B3.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B4.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B4.xbf">
+					<Candidate type="Path">
+						<Value>Second\B4.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B5.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B5.xbf">
+					<Candidate type="Path">
+						<Value>Second\B5.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B6.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B6.xbf">
+					<Candidate type="Path">
+						<Value>Second\B6.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B61.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B61.xbf">
+					<Candidate type="Path">
+						<Value>Second\B61.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="B7.xbf" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Files/Second/B7.xbf">
+					<Candidate type="Path">
+						<Value>Second\B7.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Practices.ServiceLocation.Properties.Resources">
+			<NamedResource name="ActivateAllExceptionMessage" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Microsoft.Practices.ServiceLocation.Properties.Resources/ActivateAllExceptionMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Activation error occurred while trying to get all instances of type {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ActivationExceptionMessage" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Microsoft.Practices.ServiceLocation.Properties.Resources/ActivationExceptionMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Activation error occurred while trying to get instance of type {0}, key "{1}"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServiceLocationProviderNotSetMessage" uri="ms-resource://37490GSSSrinivasRao.TravelPro/Microsoft.Practices.ServiceLocation.Properties.Resources/ServiceLocationProviderNotSetMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ServiceLocationProvider must be set.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

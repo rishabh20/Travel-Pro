@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="Experiment.B4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Experiment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="White" Margin="0,-26.667,0,-0.333">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="10,60,9,527.667" Grid.RowSpan="2">
+            <TextBlock Text="Country Info" Foreground="SlateGray" TextAlignment="Center" Margin="-15,-6.5,-2.167,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Height="76"/>
+        </StackPanel>
+        <Grid Margin="0,0,-11,526.667" Background="Black">
+            <StackPanel Orientation="Horizontal" Margin="0,0,1,0">
+                <StackPanel x:ConnectionId='2' x:Name="B1"                    Margin="0,0,0,-37.667" Width="81">
+                    <Image Source="/Assets/Info.png" Stretch="Uniform" Height="71" Margin="0,0,-58.167,0"/>
+                </StackPanel>
+                <StackPanel x:ConnectionId='3' x:Name="B2"                   >
+                    <Image Source="/Assets/Map.png" Height="63" Width="211"/>
+                </StackPanel>
+                <StackPanel x:ConnectionId='4' x:Name="B3"                   >
+                    <Image Source="/Assets/Mic.png" Width="128" Height="70"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <ScrollViewer Margin="0,126,0,-0.333" Grid.RowSpan="2">
+            <!--TODO: Content should be placed within the following grid-->
+            <StackPanel x:Name="ContentRoot">
+                <TextBlock x:ConnectionId='1' Foreground="Black" TextAlignment="Center" FontSize="20" Margin="0,20,0,0" Width="400" Height="75.166" RequestedTheme="Light" FontFamily="Cambria" FontWeight="Bold"                                               RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+                    <TextBlock.RenderTransform>
+                        <CompositeTransform SkewX="-1.256" TranslateX="-0.395"/>
+                    </TextBlock.RenderTransform>
+                	<Run Text="Japan is an island Country that comprises"/>
+                	<LineBreak/>
+                	<Run Text=" of 4 large islands named Honshu,"/>
+                	<LineBreak/>
+                	<Run Text="Kyuushu,Hokkaido, and Shikoku."/>
+                </TextBlock>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+
+                <Image Width="300" Source="/Assets/mapJapan.png" Margin="0,10,0,0" Height="368"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <TextBlock Foreground="Black" TextAlignment="Center" FontFamily="Cambria" FontWeight="Bold" FontSize="20" Margin="0" RequestedTheme="Light" Height="86" >
+                	<Run Text="Pacific Ocean lies to the east, while"/>
+                	<LineBreak/>
+                	<Run Text="the sea of Japan and the east China Sea"/>
+                	<LineBreak/>
+                	<Run Text="separate Japan from the Asian Continent."/>
+                </TextBlock>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+                <Image Width="300" Source="/Assets/.png" Margin="0,10,0,0" Height="368"/>
+                <Line X1="0" Y1="10" X2="480" Y2="10" Stroke="Black" StrokeThickness="2"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+
